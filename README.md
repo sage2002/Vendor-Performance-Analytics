@@ -31,14 +31,18 @@ Highlights impact of bulk purchasing on pricing and margins
 
 Suggests strategies for both high-performing and low-performing vendors
 
-📂 Project Structure
-├── data/                 # Contains datasets and exported CSV files  
-├── logs/                 # Logging outputs for debugging and traceability  
-├── inventory.db          # SQLite database with raw vendor data  
-├── get_vendor_summary.py # SQL + Pandas pipeline to build vendor summary  
-├── ingestion_db.py       # Utility for ingesting cleaned data back to DB  
-├── Exploratory Data Analysis.ipynb  # Data cleaning + EDA  
-├── Vendor Performance Analysis.ipynb # Final analysis & insights  
+## 📂 Project Structure  
+
+```bash
+├── data/                 # Input & processed datasets
+├── logs/                 # Logging outputs
+├── inventory.db          # SQLite database
+├── ingestion_db.py       # Script for DB ingestion
+├── get_vendor_summary.py # SQL queries & vendor summary creation
+├── Exploratory Data Analysis.ipynb # EDA and insights
+├── Vendor Performance Analysis.ipynb # Final analysis & visualizations
+└── README.md             # Project documentation
+ 
 
 🛠️ Tech Stack
 
