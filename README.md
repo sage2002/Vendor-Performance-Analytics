@@ -3,7 +3,7 @@
 This project focuses on analyzing vendor performance using SQLite, Python (Pandas, NumPy, Matplotlib, Seaborn), and Jupyter Notebooks.
 The goal is to evaluate purchase and sales data to identify vendor profitability, efficiency, and opportunities for improvement.
 
-🚀 __Key Features__
+## Key Features
 
 Database Integration: Reads and processes data from inventory.db using SQL queries.
 
