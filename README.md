@@ -3,7 +3,7 @@
 This project focuses on analyzing vendor performance using SQLite, Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI and Jupyter Notebooks.
 The goal is to evaluate purchase and sales data to identify vendor profitability, efficiency, and opportunities for improvement.
 
-## Key Features
+## Key Features 📈
 
 Database Integration: Reads and processes data from inventory.db using SQL queries.
 
@@ -42,7 +42,7 @@ Suggests strategies for both high-performing and low-performing vendors
 ├── Exploratory Data Analysis.ipynb # EDA and insights
 ├── Vendor Performance Analysis.ipynb # Final analysis & visualizations
 └── README.md             # Project documentation
-```  <-- CLOSE the code block here!
+```  
 
 ---
 
@@ -59,7 +59,7 @@ Suggests strategies for both high-performing and low-performing vendors
 
 ---
 
-## 📊 Example Insights  
+## Example Insights  💻
 
 - Vendors with bulk orders achieve **~72% lower unit costs**, improving margins.  
 - Low-performing vendors maintain higher profit margins (premium pricing strategy) but lack sales volume.  
